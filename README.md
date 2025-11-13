@@ -18,10 +18,10 @@ User Features
 - View product inventory.
 - Dashboard for analytics (optional enhancement).
 
-  **Frontend**  React, React Router, Bootstrap, Axios 
-  **Backend**  Spring Boot, Hibernate, REST API 
-  **Database**  MySQL 
-  **Version Control**  Git + GitHub
+  -**Frontend**  React, React Router, Bootstrap, Axios 
+  -**Backend**  Spring Boot, Hibernate, REST API 
+  -**Database**  MySQL 
+  -**Version Control**  Git + GitHub
 
 
   
